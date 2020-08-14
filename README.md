@@ -1,4 +1,3 @@
-# atishekk.github.io
 # Task Manager UI
 
 ## To clone the repo:
