@@ -1,6 +1,5 @@
 # atishekk.github.io
-# Just a test repo to use Github pages
-Task Manager UI
+# Task Manager UI
 
 ## To clone the repo:
 ### Install git:
