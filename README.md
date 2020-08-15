@@ -15,13 +15,13 @@ Use the following URL:
 ## How to make changes to the repository
 All the instructions are for a command line interface.
 
-#### 1.Clone the repository
+### 1.Clone the repository
 First you need to clone the repository as explained above. Also do configure your personal details.
 > git config user.name "<Name>"
 > git config user.email "<email>"
 You can use the --global flag to set these configuration changes globally
 
-#### 2.Create a separate branch.
+### 2.Create a separate branch.
 Please don't work on the master. Create a new branch for implementing a new feature and create a pull request.
 To create a new branch
 > git checkout -b "<branch name>"
